@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    position: relative;
+    background:linear-gradient(to right,#e91e63,rgb(17, 0, 255));
+}
+
+#containe{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    margin:5% auto;
+}
+
+
+#btn{
+    width: 535.2px;
+    height: 50px;
+    border:0;
+    background-color:#003C9D;
+    color:white;
+    border-radius:10px;
+    cursor:pointer;
+    font-size: 2em; 
+}
+
+#btn:hover{
+    opacity: 0.4;
+
+}
+
+#Result{
+   text-align: center;
+}
